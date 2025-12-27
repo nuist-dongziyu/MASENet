@@ -110,12 +110,15 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |ours|44.0|25.8|6.2|
 |ours-s|49.0|29.6|24|
 
-|Method|Year||||
+|Method|Year|Source|mAP@50|mAP@50-95|
+|-|-|-|-|-|
+|Faster R-CNN|2015|NeurIPS|31.0|-|
+|Cascade R-CNN|2018||||
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyNTk1NDgyLC00MjM4MzQ4OTBdfQ==
+eyJoaXN0b3J5IjpbLTI3NTkxMjIyMCwtNDIzODM0ODkwXX0=
 -->
