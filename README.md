@@ -83,12 +83,15 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |ours-s|IR|-|-|89.3|79.8|88.6(+10.3)|58.5(+11.4)|24|82.2|137|
 
 #### Quantitative Results on VisDrone
-
+|Method|mAP@50|mAP@50-95|Pa(M)|
+|-|-|-|-|
+|YOLOv8-n|32.9|19.1|2.6|
+|YOLOv8-s|38.0|22.9|9.8|
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNzA3NjIsLTQyMzgzNDg5MF19
+eyJoaXN0b3J5IjpbMzQ1NjA1ODEyLC00MjM4MzQ4OTBdfQ==
 -->
