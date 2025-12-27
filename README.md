@@ -51,7 +51,9 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |CDC-YOLO|Multi|2025|TIV|-|-|83.1|44.7|153.6|-|-|
 |YOLOAdaptor|Multi|2024|TIV|-|-|80.1|-|-|-|-|
 |Dual-YOLO|Multi|2023|Sensors|-|-|84.5|-|175.1|-|-|
-|YOLOFusion|Multi|2022|PR|-|-|76.6|39.8|1|||
+|YOLOFusion|Multi|2022|PR|-|-|76.6|39.8|12.52|-|-|
+|MDSFYOLO|IR|2025|TGRS|88.5|78.3|87.6|56.7|5.9|28.4|238|
+|ours|IR|-|-|87.4|||||||
 
 
  
@@ -60,6 +62,6 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDQ3NzE2OSwxMzM3MjgwNDcwLC0xMT
-k2MzUxODM1LDEyODc0MzU5ODddfQ==
+eyJoaXN0b3J5IjpbLTE2MjQwNzg0NzksMTMzNzI4MDQ3MCwtMT
+E5NjM1MTgzNSwxMjg3NDM1OTg3XX0=
 -->
