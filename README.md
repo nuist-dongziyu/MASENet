@@ -74,7 +74,10 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |C2DFFNet|Multi|2025|TGRS|-|-|76.9|40.8|6.58|14.6|-|
 |CIRDet|Multi|2025|TCSVT|-|-|81.2|46.5|-|-|-|
 |COFNet|Multi|2025|TMM|-|-|83.6|44.6|90.2|196.1|-|
-|DHANet|Multi|2025|TGRS||||||||
+|DHANet|Multi|2025|TGRS|-|-|74.3|-|-|-|-|
+|DPAL|Multi|2025|TGRS|-|-|75.95|-|-|-|-|
+|IGT|Multi|2023|KBS|-|-|85.0|43.6|-|-|-|
+|MMFN|Multi|2025|||||||||
 
 
  
@@ -83,6 +86,6 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjExOTI2OCwxMzM3MjgwNDcwLC0xMT
+eyJoaXN0b3J5IjpbMTAyNzIxNzE1NiwxMzM3MjgwNDcwLC0xMT
 k2MzUxODM1LDEyODc0MzU5ODddfQ==
 -->
