@@ -18,9 +18,11 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 ## Network
 ![MASENet Framework](https://github.com/dongziyu89-nuist/NUIST-dongziyu-MASENet/blob/main/assets/Network.png)
 ## Recommended Environment
+~~~
 1. python 3.10.18
 2. pytorch 2.7.1
 3. torchvision 0.22.1
+~~~
 ## Datasets
 1. FLIR
 2. VisDrone
@@ -39,5 +41,6 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTYzNTE4MzUsMTI4NzQzNTk4N119
+eyJoaXN0b3J5IjpbMTk1MTQ4Mjk5NSwtMTE5NjM1MTgzNSwxMj
+g3NDM1OTg3XX0=
 -->
