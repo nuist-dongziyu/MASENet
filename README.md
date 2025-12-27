@@ -16,7 +16,7 @@ Extensive experiments demonstrate that the proposed modules consistently bring s
 
 Moreover, with fewer parameters and lower computational cost, the **S-scale model** of MASENet delivers performance comparable to Transformer-based detectors, highlighting its efficiency, robustness, and strong adaptability in challenging infrared detection scenarios.
 ## Network
-![MASENet Framework](https://github.com/dongziyu89-nuist/NUIST-dongziyu-MASENet/blob/main/Network.png)
+![MASENet Framework](https://github.com/dongziyu89-nuist/NUIST-dongziyu-MASENet/blob/main/assets/Network.png)
 ## Recommended Environment
 1. python 3.10.18
 2. pytorch 2.7.1
@@ -37,5 +37,5 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM3ODYyODMsMTU2MzIxNjA1N119
+eyJoaXN0b3J5IjpbLTQwNjg3NjYzOV19
 -->
