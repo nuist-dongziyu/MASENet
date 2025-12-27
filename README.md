@@ -87,11 +87,13 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |-|-|-|-|
 |YOLOv8-n|32.9|19.1|2.6|
 |YOLOv8-s|38.0|22.9|9.8|
+|YOLOv8-m|41.7|25.4|23|
+|YOLOv8-l|43.2|||
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1NjA1ODEyLC00MjM4MzQ4OTBdfQ==
+eyJoaXN0b3J5IjpbLTE1Nzg3NDM1NCwtNDIzODM0ODkwXX0=
 -->
