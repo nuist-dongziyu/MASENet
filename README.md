@@ -36,7 +36,9 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |Method|Data|Year|Source|P(%)|R(%)|mAP@50|mAP@50-95|Pa(M)|GFLOPS|FPS|
 |-|-|-|-|-|-|-|-|-|-|-|
 |YOLOv3-Tiny|IR|2018|arXiv|82.6|57.0|66.2|40.4|12.2|19|-|
-|YOLOv5n|IR|2020|7.0u||||||||
+|YOLOv5n|IR|2020|7.0u|84.8|68.6|78.6|47.2|2.2|6.1|-|
+|YOLOv6n|IR|2022|arXiv|83.2|65.3|75.3|46.2|5.1|11.8|-|
+||||||||||||
 
 
  
@@ -45,6 +47,6 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDYxMTE5NCwtMTE5NjM1MTgzNSwxMj
-g3NDM1OTg3XX0=
+eyJoaXN0b3J5IjpbMjk0OTQzNTQ3LC0xMTk2MzUxODM1LDEyOD
+c0MzU5ODddfQ==
 -->
