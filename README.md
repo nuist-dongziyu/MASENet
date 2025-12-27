@@ -105,11 +105,15 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |YOLOv11-s|38.4|22.9|9.4|
 |YOLOv11-m|43.0|26.3|19|
 |YOLOv11-l|43.8|26.9|25|
+|YOLOv11-x|45.8|28.5|56|
+|baseline|33.5|19.1|2.4|
+|ours|44.0|25.8|6.2|
+|ours||||
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcyNTM1MDcsLTQyMzgzNDg5MF19
+eyJoaXN0b3J5IjpbMTk3MjI3NTAyLC00MjM4MzQ4OTBdfQ==
 -->
