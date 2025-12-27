@@ -18,7 +18,7 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 ## Network
 ![MASENet Framework](https://github.com/dongziyu89-nuist/NUIST-dongziyu-MASENet/blob/main/Network.png)
 ## Recommended Environment
-1. 
+1. p
 2. 
 3. 
 ## Datasets
@@ -34,5 +34,5 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2ODg3NjAzLDE1NjMyMTYwNTddfQ==
+eyJoaXN0b3J5IjpbMTA2OTcyOTQ2NSwxNTYzMjE2MDU3XX0=
 -->
