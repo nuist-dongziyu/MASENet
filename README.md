@@ -60,8 +60,9 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |-|-|-|-|-|-|-|-|-|-|-|
 |SSD|IR|2016|ECCV|86.0|69.0|73.0|41.0|26.3|-|-|
 |Faster R-CNN|IR|2015|NeurIPS|85.0|69.1|79.3|49.0|41.2|156.3|-|
-|RTDETR|IR|2024|CVPR|-|-|61.5|-|-|-|-|
-|MMTOD-|||||||||||
+|RTDETR|IR|2024|CVPR|76.8|64.1|73.7|41.2|33|103.8|27|
+|MMTOD-UNIT|Multi|2020|CVPR|-|-|61.5|-|-|-|-|
+||||||||||||
 
 
  
@@ -70,6 +71,6 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5MDUzNDAxLDEzMzcyODA0NzAsLTExOT
-YzNTE4MzUsMTI4NzQzNTk4N119
+eyJoaXN0b3J5IjpbMjA0NzE4NTI4MCwxMzM3MjgwNDcwLC0xMT
+k2MzUxODM1LDEyODc0MzU5ODddfQ==
 -->
