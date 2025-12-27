@@ -56,6 +56,8 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |ours|IR|-|-|87.4|79.7|87.2(+8.9)|55.6(+8.5)|6.2|24.2|253|
 |ours-s|IR|-|-|89.3|79.8|88.6(+10.3)|58.5(+11.4)|24|82.2|137|
 
+|Method|Data|Year|Source|P(%)|R(%)|mAP@50|mAP@50-95|Pa(M)|GFLOPS||
+
 
  
 
@@ -63,6 +65,6 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDMyMTIxNiwxMzM3MjgwNDcwLC0xMT
-k2MzUxODM1LDEyODc0MzU5ODddfQ==
+eyJoaXN0b3J5IjpbLTE5NTA3NTAzOTAsMTMzNzI4MDQ3MCwtMT
+E5NjM1MTgzNSwxMjg3NDM1OTg3XX0=
 -->
