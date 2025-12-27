@@ -43,7 +43,8 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |YOLOv10n|IR|2024|NeurIPS|85.3|68.3|78.7|48.6|3.4|9.5|-|
 |YOLOv11n|IR|2024|arXiv|85.8|69.4|79.3|47.9|2.6|6.3|-|
 |YOLOv12n|IR|2025|arXiv|84.8|68.4|78.1|47.0|2.5|6.3|603|
-||||||||||||
+|YOLOv13n|IR|2025|arXiv|85.2|67.8|78.3|47.1|2.4|6.2|561|
+|goldYolo|IR|2023|||||||||
 
 
  
@@ -52,6 +53,6 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNDc0NjY4LC0xMTk2MzUxODM1LDEyOD
-c0MzU5ODddfQ==
+eyJoaXN0b3J5IjpbMjA5NTA4MDg1NiwtMTE5NjM1MTgzNSwxMj
+g3NDM1OTg3XX0=
 -->
