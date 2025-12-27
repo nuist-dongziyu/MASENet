@@ -108,12 +108,14 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |YOLOv11-x|45.8|28.5|56|
 |baseline|33.5|19.1|2.4|
 |ours|44.0|25.8|6.2|
-|ours||||
+|ours-s|49.0|29.6|24|
+
+|Method|Year||||
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjI3NTAyLC00MjM4MzQ4OTBdfQ==
+eyJoaXN0b3J5IjpbODcyNTk1NDgyLC00MjM4MzQ4OTBdfQ==
 -->
