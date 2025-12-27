@@ -37,5 +37,5 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3NDYyNjksLTE5MjUwOTg0NDZdfQ==
+eyJoaXN0b3J5IjpbNzI3NDYyNjldfQ==
 -->
