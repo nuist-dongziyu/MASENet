@@ -117,12 +117,16 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |SR-YOLO|2022|ICIS|41.6|-|
 |FBRT-YOLO-N|2025|AAAI|34.4|-|
 |FBRT-YOLO-S|2025|AAAI|42.4|-|
-|WL-RANet-n|||||
+|WL-RANet-n|2025|TGRS|33.8|19.8|
+|WL-RANet-s|2025|TGRS|40.5|24.4|
+|WL-RANet-m|2025|TGRS|44.6|27.6|
+|WL-RANet-l|2025|TGRS|45.1|28.0|
+|WL-RANet-x|2025|TGRS|46.5|29|
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzMzEzNzkzLC00MjM4MzQ4OTBdfQ==
+eyJoaXN0b3J5IjpbLTIwMTA0MzM2NTAsLTQyMzgzNDg5MF19
 -->
