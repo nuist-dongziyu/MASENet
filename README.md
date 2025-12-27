@@ -27,7 +27,7 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 3. IRSTD-1k + SIRST-V2 
 ## Results
 #### Visualization results
-
+![result1](https://github.com/dongziyu89-nuist/NUIST-dongziyu-MASENet/blob/main/assets/result1.emf)
 #### Grad-CAM results
 
 #### Quantitative Results on FLIR、VisDrone、IRSTD-1k and SIRST-V2 dataset merging
@@ -37,5 +37,5 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjg3NjYzOV19
+eyJoaXN0b3J5IjpbLTE5MjUwOTg0NDZdfQ==
 -->
