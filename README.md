@@ -52,7 +52,7 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |YOLOAdaptor|Multi|2024|TIV|-|-|80.1|-|-|-|-|
 |Dual-YOLO|Multi|2023|Sensors|-|-|84.5|-|175.1|-|-|
 |YOLOFusion|Multi|2022|PR|-|-|76.6|39.8|12.52|-|-|
-|ours|IR|-|-|87.4|79.7|87.2(+8.9)|56.3(+)|6.2|24.2|253|
+|ours|IR|-|-|88.5|78.2|87.2(+8.9)|56.3(+9.2)|6.2|24.2|253|
 |ours-s|IR|-|-|89.3|79.8|88.6(+10.3)|58.5(+11.4)|24|82.2|137|
 
 |Method|Data|Year|Source|P(%)|R(%)|mAP@50|mAP@50-95|Pa(M)|GFLOPS|FPS|
@@ -78,7 +78,7 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |IGT|Multi|2023|KBS|-|-|85.0|43.6|-|-|-|
 |MMFN|Multi|2025|TCSVT|-|-|80.8|41.7|176.4|-|-|
 |Fusion-Mamba|Multi|2025|arXiv|-|-|84.3|44.4|244.6|-|-|
-|ours|IR|-|-|87.4|79.7|87.2(+8.9)|55.6(+8.5)|6.2|24.2|253|
+|ours|IR|-|-|88.5|78.2|87.2(+8.9)|56.3(+9.2)|6.2|24.2|253|
 |ours-s|IR|-|-|89.3|79.8|88.6(+10.3)|58.5(+11.4)|24|82.2|137|
 
 #### Quantitative Results on VisDrone
@@ -146,5 +146,5 @@ The model is based on the Ultralytics framework. To train it, use the provided Y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzUyNzk3Miw5MjkzMjk2OThdfQ==
+eyJoaXN0b3J5IjpbLTg1MDA3MTU2NSw5MjkzMjk2OThdfQ==
 -->
