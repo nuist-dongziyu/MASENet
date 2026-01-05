@@ -132,7 +132,7 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
  |SSTNet|58.1|35.5|65.9|
  |OSCAR|-|-|62.0|
  |MSML|42.3|77.3|75.2|
- |ours|75.4|75.4|77.8|
+ |ours|75.4|78.6|78.8|
 
 ## Note
 The model is based on the Ultralytics framework. To train it, use the provided YAML configuration file along with our model scripts. Suggested training settings:
@@ -146,5 +146,5 @@ The model is based on the Ultralytics framework. To train it, use the provided Y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDA3MTU2NSw5MjkzMjk2OThdfQ==
+eyJoaXN0b3J5IjpbLTQ2OTcwODMyOSw5MjkzMjk2OThdfQ==
 -->
