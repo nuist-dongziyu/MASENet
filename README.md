@@ -8,11 +8,11 @@ Specifically, we introduce the **MASEM (Multi-level Adaptive Selection and Enhan
 
 Extensive experiments demonstrate that the proposed modules consistently bring significant performance gains across multiple benchmarks:
 
--   On the **FLIR** dataset, MASENet achieves **state-of-the-art (SOTA)** performance, improving mAP@50 and mAP@50–95 by **8.9%** and **8.5%**, respectively, over the YOLOv13n baseline;
+-   On the **FLIR** dataset, MASENet achieves **state-of-the-art (SOTA)** performance, improving mAP@50 and mAP@50–95 by **10.3%** and **11.4%**, respectively, over the YOLOv13n baseline;
     
--   On the **VisDrone** dataset, the proposed method improves mAP@50 and mAP@50–95 by **10.5%** and **6.7%**, respectively, and outperforms all YOLO (v5–v11) variants across all model scales;
+-   On the **VisDrone** dataset, the proposed method improves mAP@50 and mAP@50–95 by **15.5%** and **10.5%**, respectively, and outperforms all YOLO (v5–v11) variants across all model scales;
     
--   On the merged **IRSTD-1k + SIRST-V2** infrared small target dataset, MASENet achieves **77.8% mAP@50** and **75.4% recall**, maintaining a favorable balance between precision and recall under low-contrast and small-scale target scenarios.
+-   On the merged **IRSTD-1k + SIRST-V2** infrared small target dataset, MASENet achieves **78.8% mAP@50** and **78.6% recall**, maintaining a favorable balance between precision and recall under low-contrast and small-scale target scenarios.
 
 Moreover, with fewer parameters and lower computational cost, the **S-scale model** of MASENet delivers performance comparable to Transformer-based detectors, highlighting its efficiency, robustness, and strong adaptability in challenging infrared detection scenarios.
 ## Network
@@ -147,5 +147,5 @@ The model is based on the Ultralytics framework. To train it, use the provided Y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQxMTQwNTUsOTI5MzI5Njk4XX0=
+eyJoaXN0b3J5IjpbNjk5ODY5NDIxLDkyOTMyOTY5OF19
 -->
