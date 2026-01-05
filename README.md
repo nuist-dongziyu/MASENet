@@ -52,8 +52,7 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |YOLOAdaptor|Multi|2024|TIV|-|-|80.1|-|-|-|-|
 |Dual-YOLO|Multi|2023|Sensors|-|-|84.5|-|175.1|-|-|
 |YOLOFusion|Multi|2022|PR|-|-|76.6|39.8|12.52|-|-|
-|MDSFYOLO|IR|2025|TGRS|88.5|78.3|87.6|56.7|5.9|28.4|238|
-|ours|IR|-|-|87.4|79.7|87.2(+8.9)|55.6(+8.5)|6.2|24.2|253|
+|ours|IR|-|-|87.4|79.7|87.2(+8.9)|56.3(+)|6.2|24.2|253|
 |ours-s|IR|-|-|89.3|79.8|88.6(+10.3)|58.5(+11.4)|24|82.2|137|
 
 |Method|Data|Year|Source|P(%)|R(%)|mAP@50|mAP@50-95|Pa(M)|GFLOPS|FPS|
@@ -147,5 +146,5 @@ The model is based on the Ultralytics framework. To train it, use the provided Y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5ODY5NDIxLDkyOTMyOTY5OF19
+eyJoaXN0b3J5IjpbLTc0MzUyNzk3Miw5MjkzMjk2OThdfQ==
 -->
