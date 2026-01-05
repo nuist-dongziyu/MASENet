@@ -1,4 +1,4 @@
-# MASENet：Multi-level Adaptive Selection and Enhancement Network for Infrared Small Target Detection
+# MASENet: Hierarchical Adaptive Enhancement for Accurate and Robust Infrared Small-Target Detection
 ## Abstract
 Infrared small target detection plays a critical role in complex environments with varying illumination and low contrast. However, existing methods still suffer from weak target features, low signal-to-noise ratios, and severe confusion between small targets and complex backgrounds.
 
@@ -147,5 +147,5 @@ The model is based on the Ultralytics framework. To train it, use the provided Y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5MzI5Njk4XX0=
+eyJoaXN0b3J5IjpbLTE5NDQxMTQwNTUsOTI5MzI5Njk4XX0=
 -->
